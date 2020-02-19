@@ -6,6 +6,7 @@
     <Authors>Bessalyi Denis</Authors>
     <Description>Implementation of World Time API (http://worldtimeapi.org)  for .NET.</Description>
     <PackageTags>time, api</PackageTags>
+    <RepositoryUrl>https://github.com/Salnik895/WorldTimeAPI</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
